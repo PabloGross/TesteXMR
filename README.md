@@ -1,0 +1,2 @@
+# TesteXMR
+Teste mineracao XMR
